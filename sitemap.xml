@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://kimeotmd-eng.github.io/simcheong-clean/</loc>
-    <lastmod>2026-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/</loc><lastmod>2026-11-09</lastmod><priority>1.0</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/suncheon-glass.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/suncheon-awning.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/suncheon-sign.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/suncheon-wall.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/gwangyang-glass.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/gwangyang-awning.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/yeosu-glass.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/yeosu-awning.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/yeosu-sign.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/yeosu-wall.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/gwangju-glass.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/jeonju-glass.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
+<url><loc>https://kimeotmd-eng.github.io/simcheong-clean/jeonju-awning.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
 </urlset>

@@ -39,3 +39,19 @@
 - 네이버 블로그: https://blog.naver.com/kimeotmd14
 - 네이버 플레이스: https://naver.me/5owozD18
 - 당근 비즈프로필: https://www.daangn.com/kr/local-profile/7beh6qkry8tc/
+
+## 지역별 안내 페이지
+
+- https://kimeotmd-eng.github.io/simcheong-clean/suncheon-glass.html
+- https://kimeotmd-eng.github.io/simcheong-clean/suncheon-awning.html
+- https://kimeotmd-eng.github.io/simcheong-clean/suncheon-sign.html
+- https://kimeotmd-eng.github.io/simcheong-clean/suncheon-wall.html
+- https://kimeotmd-eng.github.io/simcheong-clean/gwangyang-glass.html
+- https://kimeotmd-eng.github.io/simcheong-clean/gwangyang-awning.html
+- https://kimeotmd-eng.github.io/simcheong-clean/yeosu-glass.html
+- https://kimeotmd-eng.github.io/simcheong-clean/yeosu-awning.html
+- https://kimeotmd-eng.github.io/simcheong-clean/yeosu-sign.html
+- https://kimeotmd-eng.github.io/simcheong-clean/yeosu-wall.html
+- https://kimeotmd-eng.github.io/simcheong-clean/gwangju-glass.html
+- https://kimeotmd-eng.github.io/simcheong-clean/jeonju-glass.html
+- https://kimeotmd-eng.github.io/simcheong-clean/jeonju-awning.html
