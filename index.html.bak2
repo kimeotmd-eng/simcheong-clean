@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>순천·광양·여수·광주·전주 유리창·어닝·간판·외벽청소 | 청소업체 심청</title>
+<meta name="description" content="전남 순천·광양·여수와 광주·전주 유리창청소, 어닝청소, 간판청소, 외벽청소. 대표가 직접 작업합니다. 아파트 거실 외창 18만원부터, 상가 어닝 1동 15만원부터. 사진과 주소 보내주시면 당일 견적.">
+<link rel="canonical" href="https://kimeotmd-eng.github.io/simcheong-clean/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="순천·광양·여수·광주·전주 유리창·어닝·간판·외벽청소 | 청소업체 심청">
+<meta property="og:description" content="대표가 직접 작업하는 순천·광양·여수·광주·전주 유리창·어닝·간판·외벽청소.">
+<meta property="og:image" content="https://kimeotmd-eng.github.io/simcheong-clean/img/hero-work.webp">
+<meta property="og:locale" content="ko_KR">
+<style>
+:root{--navy:#1D2B50;--yellow:#FFD400;--ink:#1a1c20;--sub:#60646d;--line:#e4e6ea;--soft:#f5f7f9}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard","Malgun Gothic",sans-serif;
+color:var(--ink);background:#fff;line-height:1.72;font-size:17px;word-break:keep-all;-webkit-text-size-adjust:100%}
+.wrap{max-width:720px;margin:0 auto;padding:0 20px}
+a{color:inherit}
+
+.bar{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:saturate(180%) blur(8px);border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;align-items:center;justify-content:space-between;height:54px}
+.brand{display:flex;align-items:center;gap:9px;font-weight:800;letter-spacing:-.4px;text-decoration:none;font-size:17px}
+.mark{width:26px;height:26px;flex:0 0 26px}
+.bar nav{display:flex;gap:17px;font-size:14.5px;color:var(--sub)}
+.bar nav a{text-decoration:none}
+@media(max-width:620px){.bar nav{display:none}}
+
+.hero{position:relative;color:#fff;background:#10182e;overflow:hidden}
+.hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.42}
+.hero .wrap{position:relative;padding:54px 20px 44px}
+.tagline{display:inline-block;font-size:13.5px;background:rgba(255,255,255,.16);
+border:1px solid rgba(255,255,255,.26);padding:5px 13px;border-radius:999px;margin-bottom:17px}
+.hero h1{font-size:1.72rem;line-height:1.38;margin:0 0 14px;letter-spacing:-.8px;font-weight:800}
+.hero h1 em{font-style:normal;color:var(--yellow)}
+.hero p{margin:0 0 24px;color:#dfe4ee;font-size:16.5px}
+.cta{display:flex;gap:9px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:7px;padding:14px 21px;border-radius:999px;
+text-decoration:none;font-weight:700;font-size:16px;border:1px solid transparent}
+.btn-main{background:var(--yellow);color:#20242c}
+.btn-ghost{background:rgba(255,255,255,.08);color:#fff;border-color:rgba(255,255,255,.4)}
+@media(max-width:520px){.hero h1{font-size:1.46rem}.btn{flex:1 1 100%}}
+
+.facts{background:var(--navy);color:#cfd6e6;font-size:14.5px}
+.facts .wrap{display:flex;gap:22px;flex-wrap:wrap;padding:13px 20px}
+.facts b{color:#fff;font-weight:700}
+
+h2{font-size:1.3rem;margin:50px 0 6px;letter-spacing:-.5px;font-weight:800}
+h2+.sub{color:var(--sub);font-size:15.5px;margin:0 0 16px}
+h3{font-size:1.05rem;margin:28px 0 7px;font-weight:700}
+p{margin:0 0 15px}
+
+.price{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:18px 0 10px}
+.price div{display:flex;justify-content:space-between;gap:14px;padding:13px 16px;border-bottom:1px solid var(--line);font-size:16px}
+.price div:last-child{border-bottom:0}
+.price span:first-child{color:var(--sub)}
+.price span:last-child{font-weight:700;white-space:nowrap}
+.note{font-size:14px;color:var(--sub);margin:0 0 6px}
+
+.ba{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin:18px 0 7px}
+.ba figure{margin:0;position:relative}
+.ba img{width:100%;height:auto;border-radius:10px;display:block}
+.ba figcaption{position:absolute;left:8px;top:8px;background:rgba(16,20,32,.72);color:#fff;
+font-size:12.5px;padding:3px 9px;border-radius:999px}
+.cap{font-size:14.5px;color:var(--sub);margin:0 0 22px}
+.shot{width:100%;border-radius:12px;display:block;margin:16px 0 7px}
+
+.area{border-left:3px solid var(--yellow);padding-left:15px;margin:22px 0}
+.area h3{margin:0 0 5px}
+.area p{margin:0;color:var(--sub);font-size:16px}
+
+details{border-bottom:1px solid var(--line);padding:3px 0}
+summary{cursor:pointer;padding:13px 2px;font-weight:600;font-size:16.5px;list-style:none;
+display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";color:var(--sub);font-weight:400;font-size:20px;line-height:1.2}
+details[open] summary::after{content:"−"}
+details p{color:var(--sub);font-size:16px;padding:0 2px 14px;margin:0}
+
+.end{background:var(--soft);border-radius:14px;padding:26px 22px;margin:34px 0 10px}
+.end h2{margin:0 0 6px}
+footer{margin-top:46px;background:var(--navy);color:#aab4c8;padding:30px 0 90px;font-size:14.5px}
+footer a{color:#dde3ee}
+footer strong{color:#fff}
+.sns{margin-top:12px}
+.sns a{margin-right:13px;white-space:nowrap}
+
+.dock{position:fixed;left:0;right:0;bottom:0;z-index:60;display:flex;
+background:#fff;border-top:1px solid var(--line);box-shadow:0 -2px 14px rgba(0,0,0,.07)}
+.dock a{flex:1;text-align:center;padding:15px 8px;text-decoration:none;font-weight:700;font-size:16px}
+.dock .c{color:var(--navy)}
+.dock .k{background:#fae100;color:#3c1e1e}
+.cases{list-style:none;padding:0;margin:14px 0 0}
+.cases li{padding:13px 0;border-top:1px solid #e8e8ea;font-size:.95rem;line-height:1.75;color:#444}
+.cases li strong{display:block;color:#1D2B50;margin-bottom:4px;font-size:1rem}
+</style>
+</head>
+<body>
+
+<div class="bar">
+<div class="wrap">
+<a class="brand" href="#">
+<svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 2.5c5.2 6.4 9.3 11.4 9.3 16.2A9.3 9.3 0 0 1 16 28a9.3 9.3 0 0 1-9.3-9.3C6.7 13.9 10.8 8.9 16 2.5Z" fill="#1D2B50"/><path d="M12.4 17.9c.3 0 .5.2.55.5A3 3 0 0 0 16 20.9c.3 0 .54.23.54.52s-.24.52-.54.52c-2.1 0-3.84-1.6-4.1-3.6-.03-.3.2-.44.5-.44Z" fill="#FFD400"/></svg>
+<span>청소업체 심청</span>
+</a>
+<nav>
+<a href="#glass">유리창</a><a href="#awning">어닝</a><a href="#sign">간판</a><a href="#wall">외벽</a><a href="#faq">자주 묻는 질문</a>
+</nav>
+</div>
+</div>
+
+<section class="hero">
+<img src="img/hero-work.webp" alt="자동차 전시장 통유리를 퓨어워터 봉으로 세척하는 작업 장면" width="1600" height="900">
+<div class="wrap">
+<span class="tagline">순천 · 광양 · 여수 · 광주 · 전주</span>
+<h1>유리창·어닝·간판·외벽,<br><em>대표가 직접</em> 닦습니다</h1>
+<p>2024년 7월에 시작해 200건 넘게 작업했습니다.
+사람을 보내지 않고 제가 갑니다. 사진과 주소를 보내주시면 그날 안에 견적을 드립니다.</p>
+<div class="cta">
+<a class="btn btn-main" href="tel:01055614558">전화 010-5561-4558</a>
+<a class="btn btn-ghost" href="http://pf.kakao.com/_xgxjxcAn">카카오톡으로 사진 보내기</a>
+</div>
+</div>
+</section>
+
+<div class="facts"><div class="wrap">
+<span><b>2024년 7월</b> 시작</span>
+<span>작업기록 <b>260건+</b></span>
+<span><b>월~토</b> 연중무휴</span>
+<span>전남·광주·전북 <b>출장</b></span>
+</div></div>
+
+<div class="wrap">
+
+<h2 id="glass">유리창청소</h2>
+<p class="sub">아파트 거실 외창 · 상가 통유리 · 사무실</p>
+<p>퓨어워터 봉으로 닦습니다. 정수한 물만 쓰기 때문에 세제가 남지 않고, 마른 뒤에 물자국이 생기지 않습니다.
+2~3층까지는 사다리를 놓지 않고 바닥에서 작업합니다.</p>
+<p>가장 많이 부르시는 건 <strong>거실 외창만</strong> 하는 작업입니다. 보통 두세 시간이면 끝납니다.
+가게 오픈 앞두고 유리에 남은 시트지나 끈끈이가 있으면 그것도 같이 떼어냅니다.</p>
+
+<div class="ba">
+<figure><img src="img/window-before-1.webp" alt="아파트 거실 외창 청소 전 — 먼지와 물때로 뿌옇게 흐려진 유리" width="800" height="600" loading="lazy"><figcaption>전</figcaption></figure>
+<figure><img src="img/window-after-1.webp" alt="아파트 거실 외창 청소 후 — 건너편 건물과 하늘이 선명해진 유리" width="800" height="600" loading="lazy"><figcaption>후</figcaption></figure>
+</div>
+<p class="cap">아파트 거실 외창. 같은 자리에서 찍었습니다. 실제 작업 현장 사진이며 보정하지 않았습니다.</p>
+
+<div class="ba">
+<figure><img src="img/window-before-3.webp" alt="거실 창 전체가 뿌옇게 흐려진 청소 전 상태" width="800" height="600" loading="lazy"><figcaption>전</figcaption></figure>
+<figure><img src="img/window-after-3.webp" alt="거실 창이 맑아져 바깥 풍경이 선명해진 청소 후 상태" width="800" height="600" loading="lazy"><figcaption>후</figcaption></figure>
+</div>
+<p class="cap">거실 전면창. 창이 넓을수록 차이가 크게 보입니다.</p>
+
+<div class="price">
+<div><span>아파트 거실 외창만</span><span>18만원부터</span></div>
+<div><span>34평 전체 유리창</span><span>34만원부터</span></div>
+<div><span>상가 통유리·사무실</span><span>현장 견적</span></div>
+</div>
+<p class="note">시작 가격입니다. 창 개수와 오염 정도, 층수에 따라 달라집니다.</p>
+
+<img class="shot" src="img/work-shop.webp" alt="전시장 통유리를 긴 봉으로 세척하는 작업 모습" width="933" height="1000" loading="lazy">
+<p class="cap">상가 통유리는 폼을 올려 불린 뒤 봉으로 훑어냅니다. 사다리를 놓지 않고 바닥에서 작업합니다.</p>
+
+<h2 id="awning">어닝청소</h2>
+<p class="sub">카페 · 음식점 · 상가</p>
+<p>전용 세제를 폼으로 올려 이끼와 묵은 때를 충분히 불린 다음 고압으로 씻어냅니다.
+천을 상하게 하지 않으면서 색이 돌아옵니다.</p>
+<p>어닝은 <strong>윗면에 때가 쌓입니다.</strong> 아래에서 올려다보면 멀쩡해 보여도 위에서 보면 다릅니다.
+장마가 지나고 나면 검게 번진 얼룩과 이끼로 문의가 가장 많습니다.</p>
+
+<div class="ba">
+<figure><img src="img/awning-after-1.webp" alt="상가 어닝 고압 세척 후 윗면 — 이끼와 묵은 때가 제거된 상태" width="773" height="825" loading="lazy"><figcaption>세척 후 윗면</figcaption></figure>
+<figure><img src="img/awning-after-2.webp" alt="상가 어닝 고압 세척 후 측면 — 얼룩이 사라진 천 표면" width="735" height="876" loading="lazy"><figcaption>세척 후 측면</figcaption></figure>
+</div>
+<p class="cap">광양·순천 상가 어닝 작업.</p>
+
+<div class="price"><div><span>상가 어닝 1동</span><span>15만원부터</span></div></div>
+<p class="note">어닝 크기와 이끼·얼룩 정도에 따라 달라집니다.</p>
+
+<h2 id="sign">간판청소</h2>
+<p class="sub">상가 간판 전면 · 프레임</p>
+<p>간판 전면과 프레임에 앉은 먼지, 매연, 빗물이 흘러내린 자국을 지웁니다.
+재질을 먼저 보고 압력과 세제를 맞춥니다. 조명 간판은 전원을 내린 뒤에 합니다.</p>
+<div class="price"><div><span>간판 1면</span><span>12만원부터</span></div></div>
+
+<h2 id="wall">외벽청소</h2>
+<p class="sub">상가 · 주택 · 소형 건물</p>
+<p>외벽은 재질에 맞춰 세제와 압력을 정합니다.</p>
+<p>노후 건물은 <strong>지워지는 오염과 이미 변색돼서 안 지워지는 부분을 작업 전에 구분해서 말씀드립니다.</strong>
+해결 안 되는 걸 된다고 하면 서로 곤란해집니다. 현장을 보고 어디까지 가능한지 먼저 알려드립니다.</p>
+<div class="price"><div><span>외벽청소</span><span>현장 견적</span></div></div>
+
+<h2 id="cases">서비스 지역과 작업 사례</h2>
+<p class="sub">전남 순천시·광양시·여수시 · 광주광역시 · 전북 전주시</p>
+
+<div class="area">
+<h3>순천시</h3>
+<p>조례동·연향동·신대지구를 비롯해 시내 전 지역 나갑니다.
+아파트 거실 외창과 전체 유리창, 상가 통유리, 카페 어닝, 간판, 외벽청소를 합니다.</p>
+<ul class="cases">
+<li><strong>순천 아파트 거실창·전체 유리창</strong> — 창이 크고 세대가 넓은 집이라 2명이 들어가 3시간에 마쳤습니다.
+고층은 바람을 정면으로 맞아 빗물 자국이 층층이 쌓입니다. 바깥면은 정제수로 닦아 그냥 말려도 자국이 안 남습니다.
+작업을 마치고 "매년 해야겠다, 정기로 관리받겠다"는 말씀을 들었습니다.</li>
+<li><strong>순천 카페 통유리</strong> — 한쪽 면이 통째로 유리라 동천과 다리가 그대로 보이는 가게였습니다.
+아침 8시 23분에 도착해 TDS 측정기로 물부터 쟀고 8PPM이 나왔습니다. 높은 자리는 사다리 대신 폴대로 올렸고,
+유리를 먼저 닦고 창틀을 나중에 닦는 순서를 지켰습니다.</li>
+<li><strong>순천 공연장 유리 시트지 제거</strong> — 행사 때 붙인 글자와 장식이 햇빛과 비를 맞아 접착제가 눌어붙은 상태였습니다.
+마른 채로 긁으면 유리에 미세한 흠집이 남아 되돌릴 수 없습니다. 충분히 적신 뒤 스크레이퍼를 눕혀서 밀었습니다.</li>
+</ul>
+</div>
+
+<div class="area">
+<h3>여수시</h3>
+<p>웅천·신기동·여천 등 전 지역 나갑니다.
+바다가 가까워 염분과 먼지가 같이 앉는 현장이 많습니다. 보통 유리창과 어닝을 같이 하시는 편입니다.</p>
+<ul class="cases">
+<li><strong>여수 도로변 음식점 어닝</strong> — 빨간 어닝 위에 검은 줄무늬가 길게 내려와 있던 현장입니다.
+차량 매연과 빗물이 섞여 흘러내린 자국이라 물만 뿌려서는 안 지워집니다. 표면을 문질러 띄운 뒤 헹궈야 하고,
+같은 자리를 여러 번 봐야 합니다. 먼지만 앉은 어닝은 한 번 헹구면 끝나는 것과 다릅니다.</li>
+<li><strong>여수 아파트 유리창</strong> — 바다가 가까운 단지라 염분과 먼지가 같이 앉습니다.
+일반 세제로 닦으면 잔류물이 남아 금방 다시 지저분해지기 때문에 정제수로 닦습니다.</li>
+<li><strong>여수 상가 통유리·간판</strong> — 가게 외관을 한 번에 정리하는 작업입니다.
+유리와 간판을 같이 하시면 이동이 한 번이라 시간이 덜 듭니다.</li>
+</ul>
+</div>
+
+<div class="area">
+<h3>광양시</h3>
+<p>사업장이 광양읍에 있어 중마동·광양읍은 당일 방문이 가능합니다.
+유리창, 어닝, 간판, 외벽 전부 합니다.</p>
+<ul class="cases">
+<li><strong>광양 중마동 아파트 거실창</strong> — 집 전체가 아니라 거실창과 창틀 하단부만 한 작업으로, 1인 2~3시간 걸렸습니다.
+구축 아파트를 리모델링하고도 뭔가 부족했는데 유리창청소가 답이었다는 말씀을 들었습니다.
+바닥·벽지·조명을 새로 해도 빛이 들어오는 입구가 그대로면 기대만큼 밝아지지 않습니다.</li>
+<li><strong>광양 아파트 전체 유리창</strong> — 거실창부터 방 창까지 전부 닦은 현장입니다.
+집에서 유리 면적이 제일 넓은 곳이 거실이라, 예산이 빠듯하시면 거실창부터 하시길 권합니다.</li>
+<li><strong>광양 상가 어닝·간판</strong> — 어닝과 간판을 같이 맡기시는 경우가 많습니다.
+어닝은 폼으로 불린 뒤 고압으로 씻고, 간판은 재질을 확인한 뒤 압력을 맞춥니다.</li>
+</ul>
+</div>
+
+<div class="area">
+<h3>광주광역시</h3>
+<p>임동·소태동·첨단지구 등으로 나갑니다. 아파트 유리창청소가 대부분이고,
+인테리어 공사 뒤 분진을 걷어내는 작업도 함께 맡으십니다.</p>
+<ul class="cases">
+<li><strong>광주 소태동 아파트 전체 유리창</strong> — 이사 전 빈집이라 가구를 옮기지 않고 한 번에 돌았습니다.
+빈집일 때가 작업이 가장 빠릅니다. 입주 날짜가 잡혀 있으면 그 전에 하시는 편이 낫습니다.</li>
+<li><strong>광주 첨단지구 아파트 이중창</strong> — 창이 두 겹인 집입니다. 겉창과 속창 사이에 손이 들어가는지를
+먼저 보고, 분리되는 구조면 떼어내 양면을 닦습니다. 구조에 따라 시간이 달라지니 사진을 먼저 받습니다.</li>
+<li><strong>광주 인테리어 후 분진 제거</strong> — 공사가 끝난 집은 유리에 미세한 가루와 실리콘 자국이 남습니다.
+그냥 닦으면 가루가 유리를 긁습니다. 적셔 띄운 뒤 걷어내고, 자국은 따로 처리합니다.</li>
+</ul>
+</div>
+
+<div class="area">
+<h3>전북 전주시</h3>
+<p>에코시티·혁신도시·송천동 등으로 나갑니다. 아파트 전체 유리창과
+상가 유리창·어닝·간판을 합니다.</p>
+<ul class="cases">
+<li><strong>전주 에코시티 아파트 전체 유리창</strong> — 거실 통창부터 방 창까지 전부 닦았습니다.
+세대가 넓으면 창 개수가 많아 시간이 늘어나니, 예산을 보시고 거실창만 하셔도 됩니다.</li>
+<li><strong>전주 혁신도시 상가 간판</strong> — 간판은 재질을 먼저 확인합니다. 조명이 들어가는 간판은
+전원을 내린 뒤 작업합니다. 유리창과 같이 맡기시면 이동이 한 번이라 시간이 덜 듭니다.</li>
+<li><strong>전주 송천동 상가 어닝</strong> — 과일가게 어닝이었습니다. 천막은 폼으로 불려 띄운 뒤 헹굽니다.
+가게 외관은 손님이 들어오기 전에 먼저 보는 곳이라 간판과 같이 정리하시는 분이 많습니다.</li>
+</ul>
+</div>
+
+<h2 id="faq">자주 묻는 질문</h2>
+<p class="sub">제목을 누르면 답이 열립니다</p>
+
+<details><summary>순천 아파트 유리창청소 비용은 얼마인가요?</summary>
+<p>거실 외창만 하시면 18만원부터, 34평 전체 유리창은 34만원부터입니다. 창 개수와 오염 정도, 층수에 따라 달라지니 사진을 보내주시면 정확히 알려드립니다.</p></details>
+
+<details><summary>거실 외창만 청소도 가능한가요?</summary>
+<p>가능합니다. 가장 많이 부르시는 작업입니다. 거실 외창만이면 보통 두세 시간이면 끝납니다.</p></details>
+
+<details><summary>고층 아파트 외창도 청소할 수 있나요?</summary>
+<p>층수와 창 구조에 따라 다릅니다. 퓨어워터 봉으로 바닥에서 닿는 높이는 2~3층까지이고, 그보다 높으면 실내에서 손이 닿는 범위를 확인한 뒤에 말씀드립니다. 사진을 보내주시면 가능한지부터 알려드립니다.</p></details>
+
+<details><summary>상가 통유리 청소 비용과 소요 시간은?</summary>
+<p>면적과 층수에 따라 현장 견적입니다. 사진과 주소를 주시면 금액과 걸리는 시간을 같이 알려드립니다.</p></details>
+
+<details><summary>여수 상가 어닝 청소 비용은 얼마인가요?</summary>
+<p>1동 기준 15만원부터입니다. 어닝 크기와 이끼·얼룩 정도에 따라 달라집니다.</p></details>
+
+<details><summary>어닝 이끼와 검은 얼룩이 정말 지워지나요?</summary>
+<p>폼으로 충분히 불린 뒤 고압으로 씻으면 대부분 빠집니다. 다만 천 자체가 삭아서 변색된 부분은 청소로 돌아오지 않습니다. 사진을 보고 어디까지 되는지 먼저 말씀드립니다.</p></details>
+
+<details><summary>간판 청소는 어떻게 하나요? 간판이 상하지 않나요?</summary>
+<p>간판 1면 12만원부터입니다. 재질을 먼저 확인하고 압력과 세제를 맞춥니다. 조명 간판은 전원을 내린 뒤에 작업합니다.</p></details>
+
+<details><summary>가게 오픈 전 유리 시트지 제거와 청소를 함께 할 수 있나요?</summary>
+<p>같이 합니다. 시트지와 끈끈이를 떼어낸 뒤 유리를 닦습니다. 오픈 날짜를 말씀해 주시면 맞춰서 갑니다.</p></details>
+
+<details><summary>노후 건물 외벽 청소로 얼룩이 다 지워지나요?</summary>
+<p>전부는 아닙니다. 쌓인 오염은 빠지지만 자재가 변색된 부분은 그대로입니다. 현장을 보고 지워지는 범위와 안 되는 범위를 작업 전에 구분해서 알려드립니다.</p></details>
+
+<details><summary>견적을 받으려면 무엇을 보내면 되나요?</summary>
+<p>사진, 주소, 원하시는 날짜 세 가지면 됩니다. 전화나 카카오톡으로 보내주시면 그날 안에 답을 드립니다.</p></details>
+
+<details><summary>비 오는 날에도 작업하나요?</summary>
+<p>유리창은 비가 오면 닦아놔도 다시 더러워져서 날짜를 옮깁니다. 어닝·외벽 고압세척은 비가 약하면 할 수 있는 경우가 있어 당일 상황을 보고 말씀드립니다.</p></details>
+
+<details><summary>정기 청소 계약도 가능한가요?</summary>
+<p>가능합니다. 상가와 사무실은 주기를 정해놓고 가는 곳이 여럿 있습니다. 주기와 범위를 말씀해 주시면 금액을 알려드립니다.</p></details>
+
+<details><summary>세금계산서·현금영수증 발행이 되나요?</summary>
+<p>됩니다. 사업자등록번호 205-16-52711로 등록된 사업장입니다.</p></details>
+
+<details><summary>어느 지역까지 출장 가능한가요?</summary>
+<p>전남 순천·광양·여수가 가장 많고, 광주와 전주도 정기적으로 나갑니다. 그 밖의 지역은 일정과 거리를 보고 가능한지 말씀드리니 먼저 연락 주십시오.</p></details>
+
+<details><summary>유리창 청소는 몇 월에 하는 게 좋나요?</summary>
+<p>봄에 황사와 미세먼지가 가라앉은 뒤가 가장 깨끗하게 유지됩니다. 3월에서 5월 사이에 문의가 가장 많습니다. 가을에는 여름 동안 쌓인 오염을 정리하는 작업이 많습니다. 다만 겨울에도 작업합니다. 날이 많이 추우면 물이 얼지 않는 시간대를 골라서 갑니다.</p></details>
+
+<details><summary>어닝과 외벽은 언제 청소하는 게 좋나요?</summary>
+<p>장마가 끝난 뒤가 가장 효과가 좋습니다. 여름에 습기로 이끼와 청태가 올라오기 때문에 8월에서 10월 사이가 성수기입니다. 반대로 장마 전에 미리 하시면 이끼가 자리잡는 것을 늦출 수 있습니다. 어느 쪽이 나은지는 현재 상태를 사진으로 보고 말씀드립니다.</p></details>
+
+<div class="end">
+<h2>견적 받는 법</h2>
+<p class="sub">사진 · 주소 · 원하는 날짜</p>
+<p>이 세 가지만 보내주시면 그날 안에 답을 드립니다.
+전화도 카카오톡도 제가 직접 받습니다.</p>
+<div class="cta">
+<a class="btn" href="tel:01055614558" style="background:#1D2B50;color:#fff">전화 010-5561-4558</a>
+<a class="btn" href="http://pf.kakao.com/_xgxjxcAn" style="background:#fae100;color:#3c1e1e">카카오톡으로 사진 보내기</a>
+</div>
+</div>
+
+</div>
+
+<footer>
+<div class="wrap">
+<p><strong>청소업체 심청</strong> &middot; 마음을 닦다<br>
+대표 김대승 &middot; 전남 광양시 광양읍 목성1길 8 1층<br>
+사업자등록번호 205-16-52711<br>
+전화 <a href="tel:01055614558">010-5561-4558</a><br>
+이메일 <a href="mailto:kimeotmd14@naver.com">kimeotmd14@naver.com</a><br>
+영업시간 월~토 연중무휴(공휴일 포함) &middot; 일요일 휴무<br>
+서비스 지역 전남 순천시·광양시·여수시 · 광주광역시 · 전북 전주시</p>
+<p class="sns">
+<a href="https://www.instagram.com/simcheong_clean">인스타그램</a>
+<a href="https://blog.naver.com/kimeotmd14">블로그</a>
+<a href="https://naver.me/5owozD18">네이버 플레이스</a>
+<a href="https://www.daangn.com/kr/local-profile/7beh6qkry8tc/">당근</a>
+</p>
+</div>
+</footer>
+
+<div class="dock">
+<a class="c" href="tel:01055614558">전화하기</a>
+<a class="k" href="http://pf.kakao.com/_xgxjxcAn">카카오톡 사진 보내기</a>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "청소업체 심청",
+  "alternateName": "Simcheong Cleaning",
+  "slogan": "마음을 닦다",
+  "description": "전남 순천·광양·여수와 광주·전주 유리창청소, 어닝청소, 간판청소, 외벽청소 전문 업체. 2024년 7월 창업, 대표가 직접 작업하며 누적 200건 이상.",
+  "url": "https://kimeotmd-eng.github.io/simcheong-clean/",
+  "telephone": "+82-10-5561-4558",
+  "email": "kimeotmd14@naver.com",
+  "foundingDate": "2024-07",
+  "priceRange": "120000-340000",
+  "image": [
+    "https://kimeotmd-eng.github.io/simcheong-clean/img/hero-work.webp",
+    "https://kimeotmd-eng.github.io/simcheong-clean/img/window-after-1.webp",
+    "https://kimeotmd-eng.github.io/simcheong-clean/img/awning-after-1.webp"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "광양읍 목성1길 8 1층",
+    "addressLocality": "광양시",
+    "addressRegion": "전라남도",
+    "addressCountry": "KR"
+  },
+  "areaServed": [
+    {"@type": "City", "name": "순천시"},
+    {"@type": "City", "name": "광양시"},
+    {"@type": "City", "name": "여수시"},
+    {"@type": "City", "name": "광주광역시"},
+    {"@type": "City", "name": "전주시"}
+  ],
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+  }],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "청소 서비스",
+    "itemListElement": [
+      {"@type":"Offer","itemOffered":{"@type":"Service","name":"유리창청소","description":"퓨어워터 방식으로 아파트 거실 외창, 전체 유리창, 상가 통유리를 세척합니다. 2~3층까지 사다리 없이 작업하며 시트지·끈끈이 제거도 함께 합니다."},"priceCurrency":"KRW","price":"180000","priceSpecification":{"@type":"PriceSpecification","minPrice":"180000","priceCurrency":"KRW"}},
+      {"@type":"Offer","itemOffered":{"@type":"Service","name":"어닝청소","description":"전용 세제를 폼으로 도포해 이끼와 묵은 때를 불린 뒤 고압으로 세척합니다."},"priceCurrency":"KRW","price":"150000","priceSpecification":{"@type":"PriceSpecification","minPrice":"150000","priceCurrency":"KRW"}},
+      {"@type":"Offer","itemOffered":{"@type":"Service","name":"간판청소","description":"간판 전면과 프레임의 먼지·매연·빗물 자국을 제거합니다. 조명 간판은 전원 차단 후 작업합니다."},"priceCurrency":"KRW","price":"120000","priceSpecification":{"@type":"PriceSpecification","minPrice":"120000","priceCurrency":"KRW"}},
+      {"@type":"Offer","itemOffered":{"@type":"Service","name":"외벽청소","description":"외벽 재질에 맞춰 세제와 압력을 정하고, 청소로 지워지는 범위와 그렇지 않은 범위를 작업 전에 구분해 안내합니다."}}
+    ]
+  },
+  "sameAs": [
+    "https://www.instagram.com/simcheong_clean",
+    "https://blog.naver.com/kimeotmd14",
+    "https://naver.me/5owozD18",
+    "https://www.daangn.com/kr/local-profile/7beh6qkry8tc/"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"순천 아파트 유리창청소 비용은 얼마인가요?","acceptedAnswer":{"@type":"Answer","text":"거실 외창만 하시면 18만원부터, 34평 전체 유리창은 34만원부터입니다. 창 개수와 오염 정도, 층수에 따라 달라지니 사진을 보내주시면 정확히 알려드립니다."}},
+    {"@type":"Question","name":"거실 외창만 청소도 가능한가요?","acceptedAnswer":{"@type":"Answer","text":"가능합니다. 가장 많이 부르시는 작업입니다. 거실 외창만이면 보통 두세 시간이면 끝납니다."}},
+    {"@type":"Question","name":"고층 아파트 외창도 청소할 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"층수와 창 구조에 따라 다릅니다. 퓨어워터 봉으로 바닥에서 닿는 높이는 2~3층까지이고, 그보다 높으면 실내에서 손이 닿는 범위를 확인한 뒤에 말씀드립니다."}},
+    {"@type":"Question","name":"상가 통유리 청소 비용과 소요 시간은?","acceptedAnswer":{"@type":"Answer","text":"면적과 층수에 따라 현장 견적입니다. 사진과 주소를 주시면 금액과 걸리는 시간을 같이 알려드립니다."}},
+    {"@type":"Question","name":"여수 상가 어닝 청소 비용은 얼마인가요?","acceptedAnswer":{"@type":"Answer","text":"1동 기준 15만원부터입니다. 어닝 크기와 이끼·얼룩 정도에 따라 달라집니다."}},
+    {"@type":"Question","name":"어닝 이끼와 검은 얼룩이 정말 지워지나요?","acceptedAnswer":{"@type":"Answer","text":"폼으로 충분히 불린 뒤 고압으로 씻으면 대부분 빠집니다. 다만 천 자체가 삭아서 변색된 부분은 청소로 돌아오지 않습니다."}},
+    {"@type":"Question","name":"간판 청소는 어떻게 하나요? 간판이 상하지 않나요?","acceptedAnswer":{"@type":"Answer","text":"간판 1면 12만원부터입니다. 재질을 먼저 확인하고 압력과 세제를 맞춥니다. 조명 간판은 전원을 내린 뒤에 작업합니다."}},
+    {"@type":"Question","name":"가게 오픈 전 유리 시트지 제거와 청소를 함께 할 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"같이 합니다. 시트지와 끈끈이를 떼어낸 뒤 유리를 닦습니다. 오픈 날짜를 말씀해 주시면 맞춰서 갑니다."}},
+    {"@type":"Question","name":"노후 건물 외벽 청소로 얼룩이 다 지워지나요?","acceptedAnswer":{"@type":"Answer","text":"전부는 아닙니다. 쌓인 오염은 빠지지만 자재가 변색된 부분은 그대로입니다. 현장을 보고 지워지는 범위와 안 되는 범위를 작업 전에 구분해서 알려드립니다."}},
+    {"@type":"Question","name":"견적을 받으려면 무엇을 보내면 되나요?","acceptedAnswer":{"@type":"Answer","text":"사진, 주소, 원하시는 날짜 세 가지면 됩니다. 전화나 카카오톡으로 보내주시면 그날 안에 답을 드립니다."}},
+    {"@type":"Question","name":"비 오는 날에도 작업하나요?","acceptedAnswer":{"@type":"Answer","text":"유리창은 비가 오면 닦아놔도 다시 더러워져서 날짜를 옮깁니다. 어닝·외벽 고압세척은 비가 약하면 할 수 있는 경우가 있습니다."}},
+    {"@type":"Question","name":"정기 청소 계약도 가능한가요?","acceptedAnswer":{"@type":"Answer","text":"가능합니다. 상가와 사무실은 주기를 정해놓고 가는 곳이 여럿 있습니다. 주기와 범위를 말씀해 주시면 금액을 알려드립니다."}},
+    {"@type":"Question","name":"세금계산서·현금영수증 발행이 되나요?","acceptedAnswer":{"@type":"Answer","text":"됩니다. 사업자등록번호 205-16-52711로 등록된 사업장입니다."}},
+    {"@type":"Question","name":"어느 지역까지 출장 가능한가요?","acceptedAnswer":{"@type":"Answer","text":"전남 순천·광양·여수가 가장 많고, 광주와 전주도 정기적으로 나갑니다. 그 밖의 지역은 일정과 거리를 보고 가능한지 말씀드리니 먼저 연락 주십시오."}},
+    {"@type":"Question","name":"유리창 청소는 몇 월에 하는 게 좋나요?","acceptedAnswer":{"@type":"Answer","text":"봄에 황사와 미세먼지가 가라앉은 뒤가 가장 깨끗하게 유지됩니다. 3월에서 5월 사이에 문의가 가장 많습니다. 가을에는 여름 동안 쌓인 오염을 정리하는 작업이 많습니다. 다만 겨울에도 작업합니다. 날이 많이 추우면 물이 얼지 않는 시간대를 골라서 갑니다."}},
+    {"@type":"Question","name":"어닝과 외벽은 언제 청소하는 게 좋나요?","acceptedAnswer":{"@type":"Answer","text":"장마가 끝난 뒤가 가장 효과가 좋습니다. 여름에 습기로 이끼와 청태가 올라오기 때문에 8월에서 10월 사이가 성수기입니다. 반대로 장마 전에 미리 하시면 이끼가 자리잡는 것을 늦출 수 있습니다. 어느 쪽이 나은지는 현재 상태를 사진으로 보고 말씀드립니다."}}
+  ]
+}
+</script>
+
+</body>
+</html>
