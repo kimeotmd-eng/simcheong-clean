@@ -53,4 +53,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://simcheong-clean.github.io/sitemap.xml
+Sitemap: https://kimeotmd-eng.github.io/simcheong-clean/sitemap.xml
